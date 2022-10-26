@@ -72,7 +72,6 @@ public class Main {
     }
 
     public static int calculateLargestSumOfElementsInEachStack (int[] firstStack, int[] secondStack, int maxSum) {
-        //Separate counters and summing
         int sumInFirstStack = 0;
         int sumInSecondStack = 0;
         int sumOfBothStacksOneByOne = 0;
